@@ -1,0 +1,12 @@
+com\zerobank\steps\BankSteps.class
+com\zerobank\hooks\DriverManager.class
+com\zerobank\runner\TestRunner.class
+com\zerobank\pages\PayBillsPage.class
+com\zerobank\hooks\BankStart.class
+com\zerobank\utils\PropertyReader.class
+com\zerobank\utils\Reports.class
+com\zerobank\pages\TransferPage.class
+com\zerobank\pages\LogoutPage.class
+com\zerobank\pages\LoginPage.class
+com\zerobank\pages\OnlineBankingPage.class
+com\zerobank\pages\DownloadFilePage.class
